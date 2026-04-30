@@ -98,3 +98,10 @@
 💡 Clean code is not written, it is rewritten.  
 ☕ Coffee + Code = Infinite loops of productivity  
 🐛 Bugs are just unpaid features 😄
+
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammed-elharcha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
