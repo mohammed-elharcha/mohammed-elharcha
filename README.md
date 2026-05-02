@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Mohamed El Harcha</h1>
+<h1 align="center">Hi, I'm Mohamed El Harcha</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohammed-elharcha&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  🚀 Full Stack Web Developer | React • Node.js • Laravel • MongoDB
+   Full Stack Web Developer | React • Node.js • Laravel • MongoDB
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 | | |
 |---|---|
@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠️ Languages & Tools I Use
+##  Languages & Tools I Use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,php,html,css,react,tailwind,nextjs,nodejs,express,laravel,mongodb,mysql,git,github,vscode,docker" />
@@ -31,7 +31,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammed-elharcha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
@@ -44,20 +44,7 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|-------------|
-| **Jouala** | Social media platform | React, Node.js, MongoDB |
-| **E-commerce App** | Full stack online store with admin dashboard | React, Express, MySQL |
-| **School Management System** | Manage students, teachers, and classes | Laravel, MySQL, Tailwind |
-| **Portfolio Website** | Modern developer portfolio | Next.js, Tailwind CSS |
-
-> 💡 *Replace these with links to your actual projects when available*
-
----
-
-## 📫 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="mailto:mohammed.elharcha.pro@gmail.com">
@@ -73,15 +60,14 @@
 
 ---
 
-## 🧠 Developer Mindset
+##  Developer Mindset
 
 > “First solve the problem, then write the code, then make it better.”
 
 ---
 
-## 🎯 Fun Corner
+##  Fun Corner
 
-| | |
 |---|---|
 | 💡 | Clean code isn't written – it's rewritten |
 | ☕ | Coffee + Code = Infinite loops of productivity |
