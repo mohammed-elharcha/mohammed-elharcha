@@ -68,7 +68,7 @@
 
 ##  Fun Corner
 
-|---|---|
+| | |
 | 💡 | Clean code isn't written – it's rewritten |
 | ☕ | Coffee + Code = Infinite loops of productivity |
 | 🐛 | Bugs are just unpaid features |
