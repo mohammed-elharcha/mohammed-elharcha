@@ -25,19 +25,30 @@
 
 ## Tech Stack
 
+## Tech Stack
+
 <p align="center">
 
-<img src="https://img.shields.io/badge/Code-JavaScript-black?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/Code-TypeScript-black?style=for-the-badge&logo=typescript" />
-<img src="https://img.shields.io/badge/Backend-Node.js-black?style=for-the-badge&logo=node.js" />
-<img src="https://img.shields.io/badge/Backend-Laravel-black?style=for-the-badge&logo=laravel" />
-<img src="https://img.shields.io/badge/Frontend-React-black?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/Frontend-Next.js-black?style=for-the-badge&logo=next.js" />
-<img src="https://img.shields.io/badge/Style-TailwindCSS-black?style=for-the-badge&logo=tailwind-css" />
-<img src="https://img.shields.io/badge/Database-MongoDB-black?style=for-the-badge&logo=mongodb" />
-<img src="https://img.shields.io/badge/Database-MySQL-black?style=for-the-badge&logo=mysql" />
-<img src="https://img.shields.io/badge/Tools-Git-black?style=for-the-badge&logo=git" />
-<img src="https://img.shields.io/badge/Tools-Docker-black?style=for-the-badge&logo=docker" />
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" />
+<img src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php" />
+<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" />
+
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
+<img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwind-css" />
+
+<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express" />
+<img src="https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel" />
+
+<img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb" />
+<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql" />
+
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker" />
 
 </p>
 
